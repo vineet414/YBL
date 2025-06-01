@@ -1,2 +1,1 @@
-# YBL
-ybl project
+# YBI-Foundation
